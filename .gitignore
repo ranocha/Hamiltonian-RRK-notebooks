@@ -1,3 +1,5 @@
+figures/*.pdf
+
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
 notebooks/__pycache__
