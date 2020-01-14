@@ -1,7 +1,7 @@
 # Relaxation Runge-Kutta Methods for Hamiltonian Problems
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-<!-- [![DOI](https://zenodo.org/badge/DOI/XXX/zenodo.XXX.svg)](https://doi.org/XXX/zenodo.XXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3607523.svg)](https://doi.org/10.5281/zenodo.3607523)
 
 This repository contains some code used in the article
 ```
@@ -28,7 +28,7 @@ use the implementations provided here, please cite this repository as
   year={2020},
   month={01},
   howpublished={\url{https://github.com/ranocha/Hamiltonian-RRK-notebooks}},
-  doi={XXX/zenodo.XXX}
+  doi={10.5281/zenodo.3607523}
 }
 ```
 
