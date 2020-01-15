@@ -10,7 +10,7 @@ This repository contains some code used in the article
   author={Ranocha, Hendrik and Ketcheson, David I},
   year={2020},
   month={01},
-  eprint={2001.XXX},
+  eprint={2001.04826},
   eprinttype={arxiv},
   eprintclass={math.NA}
 }
