@@ -5,11 +5,16 @@
 
 This repository contains some code used in the article
 ```
-@online{ranocha2020relaxationHamiltonian,
-  title={Relaxation {Runge--Kutta} Methods for {H}amiltonian Problems},
+@article{ranocha2020relaxationHamiltonian,
+  title={Relaxation {R}unge-{K}utta Methods for {H}amiltonian Problems},
   author={Ranocha, Hendrik and Ketcheson, David I},
+  journal={Journal of Scientific Computing},
+  volume={84},
+  number={1},
   year={2020},
-  month={01},
+  month={07},
+  publisher={Springer Nature},
+  doi={10.1007/s10915-020-01277-y},
   eprint={2001.04826},
   eprinttype={arxiv},
   eprintclass={math.NA}
